@@ -79,6 +79,7 @@ input[type="text"] {
   justify-content: center;
   align-items: center;
   font-size: 14px;
+  padding: 50px 25px;
 }
 
 #trending p {
